@@ -38,7 +38,7 @@ class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         int number_of_subsets = nums.size(); 
-        vector<vector<int>>res((1<<number_of_subsets)); // left shift gives number of total subsets to generate 
+        vector<vector<int>>subset((1<<number_of_subsets)); // left shift gives number of total subsets to generate 
         /*
         cout << "test " << (44|(1<<4)) << endl; //60
         */
@@ -49,11 +49,12 @@ public:
                 cout << "(mask&(1<<i)) =="<< (mask&(1<<i)) << endl; 
                 if(mask&(1<<i)) 
                 {
-                    res[mask].push_back(nums[i]);
+                    subset[mask].push_back(nums[i]);
                 }
             }
         }
-        return res;  
+        
+        return subset;  
     }
     
 };
