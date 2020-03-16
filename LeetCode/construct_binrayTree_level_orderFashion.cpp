@@ -99,6 +99,19 @@ int main()
     Node* root = NULL; 
     root = insertLevelOrder(arr, root, 0, n); 
     printInOrderFashion(root);
+
+    std::cout<<std::endl; 
+    /********Example ****************/
+    int firstValueToBePushed = 1;
+
+    std::queue<int *> CheckoutLine;
+
+    CheckoutLine.push(new int(firstValueToBePushed));
+    //CheckoutLine.push(&(firstValueToBePushed));
+
+    std::cout << *CheckoutLine.front() << std::endl;
+
+    return 0; 
    
 } 
 //--------------------------------------------
