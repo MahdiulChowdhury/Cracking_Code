@@ -30,7 +30,7 @@ return its depth = 3.
 
 class Solution_One {
 public:
-    /*  DFS Traversal of a Tree */
+     
     int maxDepth(TreeNode* root) {
         int leftDepth; 
         int rightDepth; 
@@ -48,7 +48,7 @@ public:
 
 class Solution_Two {
 public:
-    /* BFS Tree Traversal */
+     
     int maxDepth(TreeNode* root) {
         if(!root)
             return 0;
