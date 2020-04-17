@@ -1,0 +1,46 @@
+!SESSION 2020-02-01 23:25:45.488 -----------------------------------------------
+eclipse.buildId=Version 1.2.0
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/optimusprime/Documents/Embedded-C/My_workspace/hosts -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-02-01 23:26:05.716
+!MESSAGE Log4j initialized with config file /home/optimusprime/Documents/Embedded-C/My_workspace/hosts/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-02-01 23:26:08.897
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-02-01 23:26:12.023
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2020-02-02 11:09:37.752 -----------------------------------------------
+eclipse.buildId=Version 1.2.0
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/optimusprime/Documents/Embedded-C/My_workspace/hosts -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-02-02 11:09:47.066
+!MESSAGE Log4j initialized with config file /home/optimusprime/Documents/Embedded-C/My_workspace/hosts/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-02-02 11:09:50.394
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-02-02 11:09:53.164
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-02 11:11:09.748
+!MESSAGE Indexed '000Test' (0 sources, 0 headers) in 0.011 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-02-02 11:14:35.513
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.1320603418: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-02-02 11:14:35.515
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/optimusprime/Documents/Embedded-C/My_workspace/hosts/000Test/Debug/000Test
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:893)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1223)
+	at java.lang.Thread.run(Thread.java:748)

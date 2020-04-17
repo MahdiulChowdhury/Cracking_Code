@@ -1,0 +1,1776 @@
+2020-02-01 23:26:57,638 [INFO] Activator:176 - 
+
+
+2020-02-01 23:26:57,643 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-02 11:20:14,642 [INFO] Activator:176 - 
+
+
+2020-02-02 11:20:14,665 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-02 11:21:31,103 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-02 11:21:31,117 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-02 11:21:31,121 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-02 11:21:31,122 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,122 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,124 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-02 11:21:31,129 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,130 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,132 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,133 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,134 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,294 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-02 11:21:31,403 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-02-02 11:21:31,473 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-02-02 11:21:31,473 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-02 11:21:31,474 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-02 11:21:31,475 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,475 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,476 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-02 11:21:31,476 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,476 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,476 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,476 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,477 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,477 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,477 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,477 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,477 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,477 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,478 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,478 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,478 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-02 11:21:31,556 [INFO] MainPanel:180 - HeapMemory: 321912832
+2020-02-02 11:21:31,648 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-02 11:21:31,648 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-02 11:21:31,649 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,649 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-02 11:21:31,649 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-02 11:21:31,650 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,650 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,650 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,651 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,651 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,651 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,651 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,652 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,652 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,652 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-02 11:21:31,652 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,653 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-02 11:21:31,653 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-02 11:21:31,677 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-02 11:21:31,679 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-02-02 11:21:31,681 [INFO] PluginManage:292 - Check plugin analytics
+2020-02-02 11:21:31,689 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-02-02 11:21:31,690 [INFO] PluginManage:292 - Check plugin clock
+2020-02-02 11:21:31,706 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-02-02 11:21:31,707 [INFO] PluginManage:292 - Check plugin ddr
+2020-02-02 11:21:31,710 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-02-02 11:21:31,711 [INFO] PluginManage:292 - Check plugin filemanager
+2020-02-02 11:21:31,856 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-02-02 11:21:31,856 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-02-02 11:21:31,862 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-02-02 11:21:31,862 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-02-02 11:21:31,871 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-02-02 11:21:31,872 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-02-02 11:21:31,893 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-02-02 11:21:31,894 [INFO] PluginManage:292 - Check plugin power
+2020-02-02 11:21:31,904 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-02-02 11:21:31,904 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-02-02 11:21:31,922 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-02-02 11:21:31,923 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-02-02 11:21:31,986 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 32 ms. number of Sw pack : 9
+2020-02-02 11:21:32,002 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-02-02 11:21:32,002 [INFO] PluginManage:292 - Check plugin tools
+2020-02-02 11:21:32,004 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-02-02 11:21:32,004 [INFO] PluginManage:292 - Check plugin updater
+2020-02-02 11:21:32,016 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-02-02 11:21:32,016 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-02-02 11:21:32,181 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-02 11:21:32,268 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,268 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-02-02 11:21:32,270 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,270 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-02-02 11:21:32,276 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,276 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-02-02 11:21:32,280 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,280 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-02-02 11:21:32,287 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,288 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-02-02 11:21:32,337 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,338 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-02-02 11:21:32,343 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,353 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-02-02 11:21:32,365 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,365 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-02-02 11:21:32,369 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,370 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-02-02 11:21:32,377 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,379 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-02-02 11:21:32,381 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,382 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-02-02 11:21:32,385 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,386 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-02-02 11:21:32,390 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,391 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-02-02 11:21:32,393 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,394 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-02-02 11:21:32,397 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,397 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-02-02 11:21:32,399 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,400 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-02-02 11:21:32,405 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,405 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-02-02 11:21:32,410 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,411 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-02-02 11:21:32,413 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,414 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-02-02 11:21:32,416 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,416 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-02-02 11:21:32,417 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,418 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-02-02 11:21:32,419 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,419 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-02-02 11:21:32,422 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,422 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-02-02 11:21:32,424 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,425 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-02-02 11:21:32,428 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,428 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-02-02 11:21:32,432 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,432 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-02-02 11:21:32,435 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,435 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-02-02 11:21:32,437 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,438 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-02-02 11:21:32,441 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,441 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-02-02 11:21:32,444 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,444 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-02-02 11:21:32,446 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,446 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-02-02 11:21:32,448 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,449 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-02-02 11:21:32,450 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,450 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-02-02 11:21:32,452 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,452 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-02-02 11:21:32,457 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,457 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-02-02 11:21:32,463 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,467 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-02-02 11:21:32,471 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,471 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-02-02 11:21:32,473 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-02 11:21:32,474 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-02-02 11:21:32,626 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Linux
+2020-02-02 11:21:32,752 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-02 11:21:32,753 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-02-02 11:21:32,960 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-02 11:21:33,117 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-02 11:21:33,121 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-02 11:21:33,122 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-02 11:21:33,125 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-02 11:21:33,126 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-02 11:21:33,129 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-02-02 11:21:33,230 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-02 11:21:33,239 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-02-02 11:21:33,258 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-02 11:21:33,922 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-02 11:21:33,924 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-02-02 11:21:33,924 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-02 11:21:33,966 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-02 11:21:34,129 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-02 11:21:34,131 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-02 11:21:34,327 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-02 11:21:34,383 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-02 11:21:34,390 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-02 11:21:35,351 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-02 11:21:35,539 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 24 ms. number of Sw pack : 10
+2020-02-02 11:21:35,541 [INFO] Engine:366 - softwarePackList size : 10
+2020-02-02 11:21:35,561 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2020-02-02 11:21:35,582 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-02-02 11:21:35,605 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2020-02-02 11:21:35,620 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-02-02 11:21:36,112 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-02-02 11:21:36,161 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-02-02 11:21:36,197 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-02-02 11:21:36,218 [INFO] Engine:382 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2020-02-02 11:21:36,274 [INFO] Engine:378 - compute dependency for SwPack CMSIS have been done, and update is requested
+2020-02-02 11:21:36,289 [INFO] Engine:382 - compute dependency for SwPack FreeRTOS have been done, no update is requested
+2020-02-02 11:21:36,798 [WARN] ModelIntegratedPack:50 - Cannot find a middleware corresponding to integrated pack FreeRTOS
+2020-02-02 11:21:36,839 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-02 11:21:36,943 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 39 ms. number of Sw pack : 10
+2020-02-02 11:21:37,067 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-02 11:21:37,112 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-02-02 11:21:37,678 [INFO] DbMcusJson:87 - JSON generation date=Wed Dec 11 06:27:49 EST 2019 (1576063669)
+2020-02-02 11:21:40,919 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-02 11:21:40,920 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-02 11:21:40,920 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-02 11:21:40,921 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-02 11:21:42,784 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-02-02 11:21:42,790 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-02 11:21:42,816 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-02 11:21:44,748 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-02 11:21:45,141 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-02 11:21:45,157 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-02 11:21:45,169 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-02 11:21:45,175 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-02 11:21:45,183 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-02 11:21:45,221 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-02 11:21:45,225 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-02 11:21:45,232 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-02 11:21:45,243 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-02 11:21:45,243 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-02 11:21:45,256 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-02 11:21:45,257 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-02 11:21:45,257 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-02 11:21:45,258 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-02 11:21:45,265 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-02 11:21:45,266 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-02 11:21:45,400 [INFO] DbBoardsJson:79 - JSON generation date=Fri Dec 13 04:50:48 EST 2019 (1576230648)
+2020-02-02 11:21:45,418 [INFO] DbBoards:120 - Found 143 boards (140 are supported by CubeMX)
+2020-02-02 11:21:45,427 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Dec 11 06:27:49 EST 2019 (1576063669)
+2020-02-02 11:21:45,449 [INFO] DbBoardsDocs:57 - Found 160 boards documents
+2020-02-02 11:21:45,451 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-02 11:21:45,452 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-02-02 11:21:45,452 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-02 11:21:45,452 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-02 11:21:45,453 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-02 11:21:45,454 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-02 11:21:45,455 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-02 11:21:45,455 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-02-02 11:21:45,456 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-02 11:21:45,456 [WARN] DbBoards:130 - board STM32L562E-DK has no document id list !
+2020-02-02 11:21:45,456 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-02 11:21:45,458 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-02 11:21:45,459 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-02 11:21:45,461 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-02 11:21:45,462 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-02 11:21:45,462 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-02 11:21:45,463 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-02 11:21:45,463 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-02 11:21:45,463 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-02 11:21:45,464 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-02-02 11:21:45,464 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-02 11:21:45,464 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-02 11:21:45,465 [WARN] DbBoards:130 - board STM32L552E-EV has no document id list !
+2020-02-02 11:21:45,465 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2020-02-02 11:21:45,466 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-02 11:21:45,466 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-02 11:21:45,466 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-02 11:21:45,466 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-02 11:21:47,391 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-02 11:21:48,166 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-02 11:21:48,166 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-02 11:21:48,489 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-02 11:21:48,489 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-02 11:21:48,489 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-02 11:21:48,838 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-02 11:21:48,840 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-02 11:21:48,968 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-02 11:21:49,158 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-02 11:22:40,049 [INFO] CrossReferenceDbSqlite:244 - SQLite db open (/home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs/crdb.db)
+2020-02-02 11:27:07,630 [INFO] BoardAction:78 - Docs & Resources
+2020-02-02 11:27:51,468 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-02 11:27:51,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-02 11:27:51,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-08 11:49:02,599 [INFO] Activator:176 - 
+
+
+2020-02-08 11:49:02,603 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-08 12:07:28,688 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 12:07:28,702 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 12:07:28,706 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 12:07:28,706 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:28,707 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:28,709 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 12:07:28,713 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:28,714 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:28,716 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:28,717 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:28,718 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,077 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 12:07:29,189 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-02-08 12:07:29,257 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-02-08 12:07:29,258 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 12:07:29,258 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 12:07:29,259 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:29,259 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:29,260 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 12:07:29,260 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,260 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,260 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,260 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,260 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,260 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,260 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,261 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,261 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,261 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,261 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,261 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,261 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 12:07:29,333 [INFO] MainPanel:180 - HeapMemory: 277872640
+2020-02-08 12:07:29,412 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 12:07:29,412 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 12:07:29,413 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:29,413 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 12:07:29,413 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 12:07:29,414 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,414 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,414 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,414 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,414 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,414 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,414 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,415 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,415 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,415 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 12:07:29,415 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,415 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 12:07:29,415 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 12:07:29,431 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 12:07:29,433 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-02-08 12:07:29,434 [INFO] PluginManage:292 - Check plugin analytics
+2020-02-08 12:07:29,440 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-02-08 12:07:29,441 [INFO] PluginManage:292 - Check plugin clock
+2020-02-08 12:07:29,451 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-02-08 12:07:29,451 [INFO] PluginManage:292 - Check plugin ddr
+2020-02-08 12:07:29,454 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-02-08 12:07:29,454 [INFO] PluginManage:292 - Check plugin filemanager
+2020-02-08 12:07:29,569 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-02-08 12:07:29,569 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-02-08 12:07:29,576 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-02-08 12:07:29,577 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-02-08 12:07:29,585 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-02-08 12:07:29,585 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-02-08 12:07:29,607 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-02-08 12:07:29,607 [INFO] PluginManage:292 - Check plugin power
+2020-02-08 12:07:29,618 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-02-08 12:07:29,619 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-02-08 12:07:29,633 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-02-08 12:07:29,634 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-02-08 12:07:29,688 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 28 ms. number of Sw pack : 10
+2020-02-08 12:07:29,703 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-02-08 12:07:29,704 [INFO] PluginManage:292 - Check plugin tools
+2020-02-08 12:07:29,706 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-02-08 12:07:29,706 [INFO] PluginManage:292 - Check plugin updater
+2020-02-08 12:07:29,719 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-02-08 12:07:29,720 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-02-08 12:07:29,901 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-08 12:07:29,997 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:29,998 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-02-08 12:07:29,999 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,000 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-02-08 12:07:30,005 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,006 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-02-08 12:07:30,010 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,010 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-02-08 12:07:30,018 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,018 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-02-08 12:07:30,020 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,020 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-02-08 12:07:30,025 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,026 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-02-08 12:07:30,028 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,028 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-02-08 12:07:30,031 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,031 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-02-08 12:07:30,036 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,036 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-02-08 12:07:30,038 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,038 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-02-08 12:07:30,042 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,042 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-02-08 12:07:30,044 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,045 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-02-08 12:07:30,047 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,047 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-02-08 12:07:30,049 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,050 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-02-08 12:07:30,051 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,052 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-02-08 12:07:30,055 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,055 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-02-08 12:07:30,060 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,060 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-02-08 12:07:30,063 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,063 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-02-08 12:07:30,065 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,065 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-02-08 12:07:30,067 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,067 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-02-08 12:07:30,069 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,069 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-02-08 12:07:30,071 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,072 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-02-08 12:07:30,074 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,074 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-02-08 12:07:30,077 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,077 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-02-08 12:07:30,081 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,081 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-02-08 12:07:30,083 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,083 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-02-08 12:07:30,085 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,085 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-02-08 12:07:30,087 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,088 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-02-08 12:07:30,090 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,090 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-02-08 12:07:30,092 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,093 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-02-08 12:07:30,095 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,095 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-02-08 12:07:30,096 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,097 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-02-08 12:07:30,099 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,099 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-02-08 12:07:30,104 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,105 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-02-08 12:07:30,111 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,114 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-02-08 12:07:30,118 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,118 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-02-08 12:07:30,120 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 12:07:30,121 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-02-08 12:07:30,230 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Linux
+2020-02-08 12:07:30,354 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-08 12:07:30,354 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-02-08 12:07:30,534 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 12:07:30,737 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 12:07:30,741 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-08 12:07:30,742 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 12:07:30,751 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-08 12:07:30,752 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-08 12:07:30,762 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-02-08 12:07:30,885 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-08 12:07:30,901 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-02-08 12:07:30,921 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 12:07:31,315 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-08 12:07:31,315 [INFO] MainUpdater:2874 - Updater definition file requires update
+2020-02-08 12:07:31,316 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-02-08 12:07:31,317 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-08 12:07:31,339 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-02-08 12:07:31,399 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2020-02-08 12:07:31,400 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-02-08 12:07:31,566 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-02-08 12:07:31,595 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-02-08 12:07:31,675 [INFO] LoadServerUpdatesThread:301 - End of LoadServerUpdate Thread
+2020-02-08 12:07:31,706 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-08 12:07:31,724 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-08 12:07:31,725 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-08 12:07:31,907 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-08 12:07:31,939 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-08 12:07:31,941 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-08 12:07:32,824 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-08 12:07:32,903 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-02-08 12:07:33,186 [INFO] DbMcusJson:87 - JSON generation date=Wed Dec 11 06:27:49 EST 2019 (1576063669)
+2020-02-08 12:07:34,943 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-08 12:07:34,946 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-08 12:07:34,946 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-08 12:07:34,946 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-08 12:07:36,147 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-02-08 12:07:36,151 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 12:07:36,171 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 12:07:38,282 [INFO] ServerAccessManage:348 - Download File mcusDocs.json
+2020-02-08 12:07:38,459 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:47,083 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json
+2020-02-08 12:07:48,293 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:48,720 [INFO] ServerAccessManage:348 - Download File mcusAds.json
+2020-02-08 12:07:48,740 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:50,769 [INFO] ServerAccessManage:348 - Download File boardsDocs.json
+2020-02-08 12:07:50,939 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:51,587 [INFO] ServerAccessManage:348 - Download File boards.json
+2020-02-08 12:07:51,792 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:52,204 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-02-08 12:07:52,582 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-02-08 12:07:52,584 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-02-08 12:07:52,607 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-08 12:07:52,612 [INFO] DbMcusDocs:126 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 12:07:52,894 [INFO] DbMcusDocs:61 - Found 537 MCUs documents
+2020-02-08 12:07:52,898 [INFO] ApiDb:186 - Save user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-08 12:07:52,899 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-02-08 12:07:52,899 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-08 12:07:53,708 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 12:07:54,959 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-08 12:07:54,959 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-08 12:07:54,960 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-08 12:07:54,960 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-08 12:07:55,091 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-08 12:07:55,429 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 12:07:55,447 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-08 12:07:55,458 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-08 12:07:55,462 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-08 12:07:55,466 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-08 12:07:55,467 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-08 12:07:55,476 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-08 12:07:55,478 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-08 12:07:55,479 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-08 12:07:55,488 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-08 12:07:55,489 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-08 12:07:55,492 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-08 12:07:55,492 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-08 12:07:55,493 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-08 12:07:55,493 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-08 12:07:55,493 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 12:07:55,494 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 12:07:55,508 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-02-08 12:07:55,518 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-08 12:07:55,525 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 12:07:55,541 [INFO] DbBoardsDocs:57 - Found 162 boards documents
+2020-02-08 12:07:55,543 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-08 12:07:55,544 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-02-08 12:07:55,544 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-02-08 12:07:55,544 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-08 12:07:55,545 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-08 12:07:55,546 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-08 12:07:55,546 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-08 12:07:55,547 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-08 12:07:55,548 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-02-08 12:07:55,548 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-08 12:07:55,548 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-02-08 12:07:55,548 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-02-08 12:07:55,549 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-08 12:07:55,550 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-08 12:07:55,550 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-08 12:07:55,551 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-08 12:07:55,551 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-08 12:07:55,551 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-08 12:07:55,551 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-08 12:07:55,551 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-08 12:07:55,552 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-08 12:07:55,552 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-02-08 12:07:55,552 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-08 12:07:55,553 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-08 12:07:55,553 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-02-08 12:07:55,553 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-02-08 12:07:55,554 [WARN] DbBoards:157 - board STM32L552E-EV has no document !
+2020-02-08 12:07:55,554 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-08 12:07:55,554 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-08 12:07:55,554 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-08 12:07:55,554 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-08 12:07:56,230 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-08 12:07:56,804 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 12:07:56,805 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 12:07:56,867 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-08 12:07:57,005 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-08 12:07:57,006 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-08 12:07:57,006 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-08 12:07:57,020 [INFO] DbBoardsDocs:57 - Found 324 boards documents
+2020-02-08 12:07:57,021 [INFO] ApiDb:186 - Save user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-08 12:07:57,021 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-02-08 12:07:57,025 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-08 12:07:57,031 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-08 12:07:57,035 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-08 12:07:57,040 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-08 12:07:57,041 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-08 12:07:57,048 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-08 12:07:57,049 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-08 12:07:57,054 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-08 12:07:57,057 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-08 12:07:57,057 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-08 12:07:57,060 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-08 12:07:57,061 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-08 12:07:57,061 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-08 12:07:57,061 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-08 12:07:57,062 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 12:07:57,062 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 12:07:57,079 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-02-08 12:07:57,089 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-08 12:07:57,090 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-08 12:07:57,090 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-02-08 12:07:57,091 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-02-08 12:07:57,091 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-08 12:07:57,091 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-08 12:07:57,092 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-08 12:07:57,093 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-08 12:07:57,093 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-08 12:07:57,094 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-02-08 12:07:57,094 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-08 12:07:57,095 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-02-08 12:07:57,095 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-02-08 12:07:57,095 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-08 12:07:57,097 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-08 12:07:57,097 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-08 12:07:57,097 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-08 12:07:57,097 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-08 12:07:57,098 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-08 12:07:57,098 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-08 12:07:57,098 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-08 12:07:57,099 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-08 12:07:57,099 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-02-08 12:07:57,099 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-08 12:07:57,100 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-08 12:07:57,100 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-02-08 12:07:57,100 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-02-08 12:07:57,100 [WARN] DbBoards:157 - board STM32L552E-EV has no document !
+2020-02-08 12:07:57,101 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-08 12:07:57,101 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-08 12:07:57,101 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-08 12:07:57,101 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-08 12:07:57,468 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-08 12:07:57,828 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 12:07:57,829 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 12:07:57,869 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-08 12:07:57,911 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-08 12:07:57,911 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-08 12:07:57,911 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-08 12:07:58,144 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 12:07:58,147 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-08 12:07:58,368 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 12:07:58,368 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 12:07:58,419 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-08 12:07:58,539 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-08 16:18:58,110 [INFO] Activator:176 - 
+
+
+2020-02-08 16:18:58,114 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-08 16:19:23,665 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 16:19:23,679 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 16:19:23,684 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 16:19:23,684 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:23,684 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:23,686 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 16:19:23,693 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:23,695 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:23,697 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:23,698 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:23,699 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,220 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 16:19:24,335 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-02-08 16:19:24,404 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-02-08 16:19:24,404 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 16:19:24,405 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 16:19:24,406 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:24,407 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:24,407 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 16:19:24,407 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,407 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,408 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,408 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,408 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,408 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,408 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,409 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,409 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,409 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,409 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,410 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,410 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 16:19:24,479 [INFO] MainPanel:180 - HeapMemory: 282066944
+2020-02-08 16:19:24,562 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-08 16:19:24,562 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-08 16:19:24,563 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:24,563 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-08 16:19:24,563 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-08 16:19:24,564 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,564 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,565 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,565 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,565 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,565 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,565 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,566 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,566 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,566 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-08 16:19:24,566 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,566 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-08 16:19:24,566 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-08 16:19:24,584 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 16:19:24,586 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-02-08 16:19:24,587 [INFO] PluginManage:292 - Check plugin analytics
+2020-02-08 16:19:24,593 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-02-08 16:19:24,593 [INFO] PluginManage:292 - Check plugin clock
+2020-02-08 16:19:24,604 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-02-08 16:19:24,605 [INFO] PluginManage:292 - Check plugin ddr
+2020-02-08 16:19:24,608 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-02-08 16:19:24,608 [INFO] PluginManage:292 - Check plugin filemanager
+2020-02-08 16:19:24,723 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-02-08 16:19:24,723 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-02-08 16:19:24,729 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-02-08 16:19:24,729 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-02-08 16:19:24,737 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-02-08 16:19:24,738 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-02-08 16:19:24,757 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-02-08 16:19:24,757 [INFO] PluginManage:292 - Check plugin power
+2020-02-08 16:19:24,768 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-02-08 16:19:24,768 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-02-08 16:19:24,784 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-02-08 16:19:24,785 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-02-08 16:19:24,833 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 24 ms. number of Sw pack : 10
+2020-02-08 16:19:24,847 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-02-08 16:19:24,847 [INFO] PluginManage:292 - Check plugin tools
+2020-02-08 16:19:24,850 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-02-08 16:19:24,850 [INFO] PluginManage:292 - Check plugin updater
+2020-02-08 16:19:24,866 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-02-08 16:19:24,867 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-02-08 16:19:25,152 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-08 16:19:25,228 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,229 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-02-08 16:19:25,230 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,231 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-02-08 16:19:25,237 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,237 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-02-08 16:19:25,242 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,242 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-02-08 16:19:25,248 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,249 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-02-08 16:19:25,250 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,251 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-02-08 16:19:25,255 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,255 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-02-08 16:19:25,257 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,257 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-02-08 16:19:25,259 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,260 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-02-08 16:19:25,265 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,265 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-02-08 16:19:25,268 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,268 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-02-08 16:19:25,272 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,272 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-02-08 16:19:25,274 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,275 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-02-08 16:19:25,278 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,278 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-02-08 16:19:25,281 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,281 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-02-08 16:19:25,284 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,284 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-02-08 16:19:25,287 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,288 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-02-08 16:19:25,293 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,294 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-02-08 16:19:25,297 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,297 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-02-08 16:19:25,298 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,298 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-02-08 16:19:25,300 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,301 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-02-08 16:19:25,302 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,302 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-02-08 16:19:25,305 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,305 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-02-08 16:19:25,307 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,307 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-02-08 16:19:25,310 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,311 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-02-08 16:19:25,314 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,314 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-02-08 16:19:25,316 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,317 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-02-08 16:19:25,318 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,318 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-02-08 16:19:25,321 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,321 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-02-08 16:19:25,323 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,324 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-02-08 16:19:25,326 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,326 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-02-08 16:19:25,328 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,328 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-02-08 16:19:25,329 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,330 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-02-08 16:19:25,332 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,332 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-02-08 16:19:25,338 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,338 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-02-08 16:19:25,345 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,349 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-02-08 16:19:25,354 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,354 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-02-08 16:19:25,356 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-08 16:19:25,357 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-02-08 16:19:25,476 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Linux
+2020-02-08 16:19:25,596 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-08 16:19:25,597 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-02-08 16:19:25,780 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 16:19:25,976 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 16:19:25,981 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-08 16:19:25,984 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-08 16:19:25,994 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-08 16:19:25,995 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-08 16:19:26,012 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-02-08 16:19:26,112 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-08 16:19:26,122 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-02-08 16:19:26,153 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-08 16:19:26,311 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-08 16:19:26,312 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-02-08 16:19:26,312 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-08 16:19:26,378 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-08 16:19:26,519 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-08 16:19:26,520 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-08 16:19:26,761 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-08 16:19:26,789 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-08 16:19:26,796 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-08 16:19:28,083 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-08 16:19:28,228 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-02-08 16:19:28,364 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 16:19:30,315 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-08 16:19:30,318 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-08 16:19:30,318 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-08 16:19:30,318 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-08 16:19:32,272 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-02-08 16:19:32,276 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 16:19:32,310 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 16:19:33,821 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-08 16:19:34,093 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-08 16:19:34,106 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-08 16:19:34,109 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-08 16:19:34,115 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-08 16:19:34,120 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-08 16:19:34,131 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-08 16:19:34,134 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-08 16:19:34,140 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-08 16:19:34,147 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-08 16:19:34,147 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-08 16:19:34,157 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-08 16:19:34,158 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-08 16:19:34,158 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-08 16:19:34,158 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-08 16:19:34,160 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 16:19:34,161 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-08 16:19:34,201 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-02-08 16:19:34,218 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-08 16:19:34,231 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-08 16:19:34,260 [INFO] DbBoardsDocs:57 - Found 162 boards documents
+2020-02-08 16:19:34,262 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-08 16:19:34,262 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-02-08 16:19:34,263 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-02-08 16:19:34,263 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-08 16:19:34,264 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-08 16:19:34,264 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-08 16:19:34,265 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-08 16:19:34,266 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-08 16:19:34,266 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-02-08 16:19:34,267 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-08 16:19:34,267 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-02-08 16:19:34,267 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-02-08 16:19:34,268 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-08 16:19:34,270 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-08 16:19:34,270 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-08 16:19:34,271 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-08 16:19:34,276 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-08 16:19:34,276 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-08 16:19:34,277 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-08 16:19:34,277 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-08 16:19:34,278 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-08 16:19:34,278 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-02-08 16:19:34,278 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-08 16:19:34,279 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-08 16:19:34,279 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-02-08 16:19:34,279 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-02-08 16:19:34,279 [WARN] DbBoards:157 - board STM32L552E-EV has no document !
+2020-02-08 16:19:34,280 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-08 16:19:34,280 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-08 16:19:34,280 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-08 16:19:34,280 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-08 16:19:36,465 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-08 16:19:37,575 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 16:19:37,575 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-08 16:19:37,744 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-08 16:19:38,095 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-08 16:19:38,096 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-08 16:19:38,097 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-08 16:19:38,552 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 16:19:38,556 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 16:19:38,660 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-08 16:19:38,905 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-08 16:20:46,127 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-08 16:20:46,127 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-08 16:20:46,128 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-08 16:24:11,259 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-08 16:24:11,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-08 16:24:11,313 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-08 16:24:11,314 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-08 16:24:12,653 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 16:24:12,653 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 16:24:12,950 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-08 16:24:13,089 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-08 16:24:13,090 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-08 16:24:13,107 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-08 16:24:13,133 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-08 16:25:32,931 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-08 16:25:32,932 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-08 16:25:32,933 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-09 12:04:58,667 [INFO] Activator:176 - 
+
+
+2020-02-09 12:04:58,685 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-09 12:06:12,457 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-09 12:06:12,472 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-09 12:06:12,477 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-09 12:06:12,477 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:12,477 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:12,479 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-09 12:06:12,485 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,486 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,488 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,489 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,490 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,717 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-09 12:06:12,826 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-02-09 12:06:12,891 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-02-09 12:06:12,891 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-09 12:06:12,891 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-09 12:06:12,892 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:12,893 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:12,893 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-09 12:06:12,893 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,893 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,893 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,894 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,894 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,894 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,894 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,894 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,895 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,895 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:12,895 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,895 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:12,895 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-09 12:06:12,969 [INFO] MainPanel:180 - HeapMemory: 292552704
+2020-02-09 12:06:13,063 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-09 12:06:13,063 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-09 12:06:13,063 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:13,064 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-09 12:06:13,064 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-09 12:06:13,065 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,065 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:13,065 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,065 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:13,065 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,065 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:13,066 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,066 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:13,066 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,066 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-09 12:06:13,066 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,066 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-09 12:06:13,066 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-09 12:06:13,084 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-09 12:06:13,086 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-02-09 12:06:13,087 [INFO] PluginManage:292 - Check plugin analytics
+2020-02-09 12:06:13,093 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-02-09 12:06:13,094 [INFO] PluginManage:292 - Check plugin clock
+2020-02-09 12:06:13,106 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-02-09 12:06:13,106 [INFO] PluginManage:292 - Check plugin ddr
+2020-02-09 12:06:13,110 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-02-09 12:06:13,110 [INFO] PluginManage:292 - Check plugin filemanager
+2020-02-09 12:06:13,246 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-02-09 12:06:13,247 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-02-09 12:06:13,252 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-02-09 12:06:13,252 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-02-09 12:06:13,261 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-02-09 12:06:13,262 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-02-09 12:06:13,281 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-02-09 12:06:13,282 [INFO] PluginManage:292 - Check plugin power
+2020-02-09 12:06:13,293 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-02-09 12:06:13,293 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-02-09 12:06:13,310 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-02-09 12:06:13,310 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-02-09 12:06:13,358 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 23 ms. number of Sw pack : 10
+2020-02-09 12:06:13,376 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-02-09 12:06:13,376 [INFO] PluginManage:292 - Check plugin tools
+2020-02-09 12:06:13,379 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-02-09 12:06:13,379 [INFO] PluginManage:292 - Check plugin updater
+2020-02-09 12:06:13,392 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-02-09 12:06:13,393 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-02-09 12:06:13,556 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-09 12:06:13,633 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,634 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-02-09 12:06:13,636 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,636 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-02-09 12:06:13,642 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,643 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-02-09 12:06:13,646 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,647 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-02-09 12:06:13,653 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,653 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-02-09 12:06:13,655 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,655 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-02-09 12:06:13,659 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,660 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-02-09 12:06:13,661 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,661 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-02-09 12:06:13,664 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,664 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-02-09 12:06:13,669 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,669 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-02-09 12:06:13,671 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,672 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-02-09 12:06:13,675 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,675 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-02-09 12:06:13,677 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,678 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-02-09 12:06:13,680 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,681 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-02-09 12:06:13,683 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,684 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-02-09 12:06:13,686 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,686 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-02-09 12:06:13,690 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,690 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-02-09 12:06:13,695 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,696 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-02-09 12:06:13,699 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,699 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-02-09 12:06:13,701 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,701 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-02-09 12:06:13,703 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,704 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-02-09 12:06:13,705 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,706 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-02-09 12:06:13,708 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,708 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-02-09 12:06:13,711 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,711 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-02-09 12:06:13,714 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,714 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-02-09 12:06:13,717 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,717 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-02-09 12:06:13,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,719 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-02-09 12:06:13,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,721 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-02-09 12:06:13,723 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,723 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-02-09 12:06:13,725 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,725 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-02-09 12:06:13,727 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,728 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-02-09 12:06:13,729 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,730 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-02-09 12:06:13,731 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,732 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-02-09 12:06:13,734 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,734 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-02-09 12:06:13,740 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,740 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-02-09 12:06:13,747 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,749 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-02-09 12:06:13,754 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,754 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-02-09 12:06:13,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:06:13,756 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-02-09 12:06:13,862 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Linux
+2020-02-09 12:06:13,995 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-09 12:06:13,996 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-02-09 12:06:14,187 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-09 12:06:14,397 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-09 12:06:14,403 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-09 12:06:14,403 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-09 12:06:14,409 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-09 12:06:14,410 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-09 12:06:14,417 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-02-09 12:06:14,517 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-09 12:06:14,525 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-02-09 12:06:14,557 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-09 12:06:14,961 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-09 12:06:14,961 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-02-09 12:06:14,962 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-09 12:06:14,992 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-09 12:06:15,167 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-09 12:06:15,168 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-09 12:06:15,334 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-09 12:06:15,398 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-09 12:06:15,406 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-09 12:06:16,579 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-09 12:06:16,729 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-02-09 12:06:17,505 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-09 12:06:19,667 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-09 12:06:19,670 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-09 12:06:19,671 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-09 12:06:19,671 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-09 12:06:21,060 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-02-09 12:06:21,066 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-09 12:06:21,084 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-09 12:06:21,875 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-09 12:06:22,247 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-09 12:06:22,256 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-09 12:06:22,264 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-09 12:06:22,268 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-09 12:06:22,270 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-09 12:06:22,283 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-09 12:06:22,285 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-09 12:06:22,288 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-09 12:06:22,294 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-09 12:06:22,295 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-09 12:06:22,304 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-09 12:06:22,305 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-09 12:06:22,305 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-09 12:06:22,305 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-09 12:06:22,307 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-09 12:06:22,307 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-09 12:06:22,341 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-02-09 12:06:22,357 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-09 12:06:22,368 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-09 12:06:22,383 [INFO] DbBoardsDocs:57 - Found 162 boards documents
+2020-02-09 12:06:22,386 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-09 12:06:22,387 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-02-09 12:06:22,387 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-02-09 12:06:22,387 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-09 12:06:22,387 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-09 12:06:22,388 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-09 12:06:22,389 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-09 12:06:22,390 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-09 12:06:22,390 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-02-09 12:06:22,391 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-09 12:06:22,391 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-02-09 12:06:22,391 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-02-09 12:06:22,392 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-09 12:06:22,393 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-09 12:06:22,394 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-09 12:06:22,395 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-09 12:06:22,395 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-02-09 12:06:22,395 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-09 12:06:22,395 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-09 12:06:22,395 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-02-09 12:06:22,395 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-02-09 12:06:22,396 [WARN] DbBoards:157 - board STM32L552E-EV has no document !
+2020-02-09 12:06:22,396 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-09 12:06:22,396 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-09 12:06:22,396 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-09 12:06:22,396 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-09 12:06:23,350 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-09 12:06:23,954 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-09 12:06:23,954 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-09 12:06:24,024 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-09 12:06:24,178 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-09 12:06:24,178 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-09 12:06:24,179 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-09 12:06:24,429 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-09 12:06:24,432 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-09 12:06:24,482 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-09 12:06:24,594 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-09 12:07:59,490 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-09 12:07:59,491 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-09 12:07:59,492 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-09 12:08:03,604 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2020-02-09 12:08:04,996 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-09 12:08:05,144 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-02-09 12:08:05,144 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-09 12:08:05,155 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-09 12:08:05,156 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 305713328 Bytes (695205888)
+2020-02-09 12:08:05,157 [INFO] OpenFileManager:274 - Change cursor
+2020-02-09 12:08:09,374 [INFO] Rule:210 - rule SPDIFRX instance for mcu is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule Rename Tracer Mode is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule SPDIFRX instance for signal is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule SPDIFRX instance for project manager is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule SPDIFRX instance for project manager is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule ADC Scan  fix with FW F7 is applicable
+2020-02-09 12:08:09,376 [INFO] Rule:210 - rule ADC Scan  fix with FW F7 is applicable
+2020-02-09 12:08:09,377 [INFO] Rule:210 - rule UART/USART WORD LENGTH 7 is applicable
+2020-02-09 12:08:09,377 [INFO] Rule:210 - rule UART/USART WORD LENGTH 8 is applicable
+2020-02-09 12:08:09,377 [INFO] Rule:210 - rule UART/USART WORD LENGTH 9 is applicable
+2020-02-09 12:08:09,377 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule Rename USB_OE Signal is applicable
+2020-02-09 12:08:09,378 [INFO] Rule:210 - rule Rename Activate_OE Mode is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2020-02-09 12:08:09,379 [INFO] Rule:210 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2020-02-09 12:08:09,380 [INFO] Rule:210 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2020-02-09 12:08:09,381 [INFO] Rule:210 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule TimeTriggeredMode to TTCM is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN AutoBusOff to ABOM is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2020-02-09 12:08:09,382 [INFO] Rule:210 - rule Rename CAN AutoRetransmission to NART is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2020-02-09 12:08:09,383 [INFO] Rule:210 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2020-02-09 12:08:09,384 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2020-02-09 12:08:09,385 [INFO] Rule:210 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule USART TxPinLevelInvertParam Mode is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule USART RxPinLevelInvertParam Mode is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule USART DataInvertParam Mode is applicable
+2020-02-09 12:08:09,386 [INFO] Rule:210 - rule USART SwapParam Mode is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule USART OverrunDisableParam Mode is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule USART DMADisableonRxErrorParam Mode is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule USART MSBFirstParam Mode is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule Update MwName for USB_DEVICE is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2020-02-09 12:08:09,387 [INFO] Rule:210 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2020-02-09 12:08:09,388 [INFO] Rule:210 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2020-02-09 12:08:09,388 [INFO] Rule:210 - rule TIM1CLockSelection is applicable
+2020-02-09 12:08:09,389 [INFO] Rule:210 - rule TIM15CLockSelection is applicable
+2020-02-09 12:08:09,389 [INFO] Rule:210 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,390 [INFO] Rule:210 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,391 [INFO] Rule:210 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,391 [INFO] Rule:210 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,391 [INFO] Rule:210 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,392 [INFO] Rule:210 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule Rename DCMI PIXCK signal is applicable
+2020-02-09 12:08:09,393 [INFO] Rule:210 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change Default Value for USART for G4 family is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,394 [INFO] Rule:210 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,395 [INFO] Rule:210 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2020-02-09 12:08:09,396 [INFO] Rule:210 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2020-02-09 12:08:09,397 [INFO] Rule:210 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2020-02-09 12:08:09,435 [INFO] DbConfProperties:222 - Apply Compatibility (31/138 Rules)
+2020-02-09 12:08:09,466 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-02-09 12:08:10,113 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 417385136 Bytes (695205888)
+2020-02-09 12:08:10,139 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 11 ms. number of Sw pack : 10
+2020-02-09 12:08:10,263 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-02-09 12:08:10,263 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-02-09 12:08:10,263 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2020-02-09 12:08:10,264 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-02-09 12:08:10,265 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-02-09 12:08:10,830 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-09 12:08:10,832 [INFO] PinOutPanel:1399 - setPackage(STM32F407VGTx,LQFP100)
+2020-02-09 12:08:11,523 [INFO] UtilMem:74 - Before build in PCC Used Memory: 502619664 Bytes (695205888)
+2020-02-09 12:08:11,987 [INFO] SharedServices:71 - Folder for power plug-in: /home/optimusprime/.stm32cubemx/plugins/power
+2020-02-09 12:08:11,988 [INFO] UtilMem:74 - After build in PCC Used Memory: 517299728 Bytes (695205888)
+2020-02-09 12:08:12,038 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,039 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,039 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,040 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,040 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,040 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,041 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,041 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,042 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,042 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,042 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,042 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,043 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,043 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,043 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,044 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,044 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,044 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,044 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,045 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,045 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,046 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,047 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,049 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,050 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,050 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,051 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,051 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,052 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,052 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,052 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,053 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,053 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,053 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,053 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,054 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,054 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,054 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,054 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,055 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,055 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,055 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,055 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,057 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,057 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,057 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,057 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,058 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,058 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,059 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,059 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,060 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,060 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-09 12:08:12,101 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-02-09 12:08:12,216 [INFO] OpenFileManager:294 - Restore cursor
+2020-02-09 12:08:12,735 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 568153624 Bytes (695205888)
+2020-02-09 12:08:13,146 [INFO] ServerAccessManage:348 - Download File stm32cube_fw_f4_v1240.zip
+2020-02-09 12:08:22,394 [ERROR] ServerAccessManage:517 - User Cancel Download : stm32cube_fw_f4_v1240.zip.
+2020-02-09 12:08:22,417 [INFO] LoadServerPackagesThread:160 - End of LoadServerPackages Thread
+2020-02-09 12:08:22,446 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-09 12:09:04,936 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-09 12:09:04,936 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-09 12:09:04,990 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-09 12:09:04,991 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-09 12:09:06,250 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-09 12:09:06,252 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-09 12:09:06,609 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-09 12:09:06,832 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-09 12:09:06,832 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-09 12:09:06,854 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-09 12:09:06,875 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-09 12:10:05,748 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-09 12:10:05,749 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-09 12:10:05,750 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-16 10:02:08,994 [INFO] Activator:176 - 
+
+
+2020-02-16 10:02:08,998 [INFO] Activator:177 - !SESSION log4j initialized
+2020-02-17 11:58:57,117 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-17 11:58:57,134 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-17 11:58:57,138 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-17 11:58:57,139 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:57,139 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:57,141 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-17 11:58:57,147 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,148 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,150 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,151 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,153 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,648 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-17 11:58:57,779 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-02-17 11:58:57,859 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-02-17 11:58:57,860 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-17 11:58:57,860 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-17 11:58:57,861 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:57,861 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:57,861 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-17 11:58:57,861 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,861 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,862 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,862 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,862 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,862 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,862 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,862 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,862 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,862 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:57,863 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,863 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:57,863 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-17 11:58:57,943 [INFO] MainPanel:180 - HeapMemory: 291504128
+2020-02-17 11:58:58,031 [INFO] DbMcusXml:69 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-02-17 11:58:58,031 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-02-17 11:58:58,032 [INFO] DbMcus:264 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:58,032 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-02-17 11:58:58,032 [INFO] APIGFXSelector:72 - Set database path to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-02-17 11:58:58,033 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,033 [INFO] DbMcusAds:72 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:58,033 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,034 [INFO] DbMcusDocs:92 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:58,034 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,034 [INFO] DbMcusJson:59 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:58,034 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,034 [INFO] DbBoardsDocs:84 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:58,035 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,035 [INFO] DbBoardsJson:51 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/
+2020-02-17 11:58:58,035 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,035 [WARN] DbFile:31 - Overriding database path with different value: /home/optimusprime/.stmcufinder/plugins/mcufinder/ => /home/optimusprime/.stmcufinder/plugins/mcufinder
+2020-02-17 11:58:58,035 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/optimusprime/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-02-17 11:58:58,056 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-17 11:58:58,058 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-02-17 11:58:58,059 [INFO] PluginManage:292 - Check plugin analytics
+2020-02-17 11:58:58,066 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-02-17 11:58:58,066 [INFO] PluginManage:292 - Check plugin clock
+2020-02-17 11:58:58,079 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-02-17 11:58:58,079 [INFO] PluginManage:292 - Check plugin ddr
+2020-02-17 11:58:58,083 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-02-17 11:58:58,083 [INFO] PluginManage:292 - Check plugin filemanager
+2020-02-17 11:58:58,226 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-02-17 11:58:58,226 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-02-17 11:58:58,234 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-02-17 11:58:58,234 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-02-17 11:58:58,244 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-02-17 11:58:58,244 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-02-17 11:58:58,266 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-02-17 11:58:58,266 [INFO] PluginManage:292 - Check plugin power
+2020-02-17 11:58:58,277 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-02-17 11:58:58,278 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-02-17 11:58:58,294 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-02-17 11:58:58,294 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-02-17 11:58:58,343 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 23 ms. number of Sw pack : 10
+2020-02-17 11:58:58,353 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-02-17 11:58:58,353 [INFO] PluginManage:292 - Check plugin tools
+2020-02-17 11:58:58,355 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-02-17 11:58:58,355 [INFO] PluginManage:292 - Check plugin updater
+2020-02-17 11:58:58,368 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-02-17 11:58:58,368 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-02-17 11:58:58,569 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-17 11:58:58,653 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,654 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-02-17 11:58:58,656 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,656 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-02-17 11:58:58,662 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,663 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-02-17 11:58:58,667 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,667 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-02-17 11:58:58,674 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,675 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-02-17 11:58:58,676 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,677 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-02-17 11:58:58,682 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,682 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-02-17 11:58:58,684 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,684 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-02-17 11:58:58,687 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,687 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-02-17 11:58:58,693 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,693 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-02-17 11:58:58,696 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,697 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-02-17 11:58:58,701 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,701 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-02-17 11:58:58,705 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,705 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-02-17 11:58:58,709 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,709 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-02-17 11:58:58,713 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,713 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-02-17 11:58:58,716 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,716 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-02-17 11:58:58,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,721 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-02-17 11:58:58,727 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,728 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-02-17 11:58:58,732 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,733 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-02-17 11:58:58,735 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,735 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-02-17 11:58:58,738 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,738 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-02-17 11:58:58,740 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,740 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-02-17 11:58:58,744 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,744 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-02-17 11:58:58,747 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,747 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-02-17 11:58:58,751 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,751 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-02-17 11:58:58,755 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,755 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-02-17 11:58:58,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,758 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-02-17 11:58:58,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,760 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-02-17 11:58:58,763 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,763 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-02-17 11:58:58,765 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,766 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-02-17 11:58:58,769 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,769 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-02-17 11:58:58,772 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,772 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-02-17 11:58:58,774 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,774 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-02-17 11:58:58,776 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,776 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-02-17 11:58:58,782 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,783 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-02-17 11:58:58,790 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,794 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-02-17 11:58:58,798 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,799 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-02-17 11:58:58,801 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-02-17 11:58:58,802 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-02-17 11:58:58,940 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Linux
+2020-02-17 11:58:59,074 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-17 11:58:59,075 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-02-17 11:58:59,264 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-17 11:58:59,424 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-17 11:58:59,428 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-02-17 11:58:59,429 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-02-17 11:58:59,433 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-02-17 11:58:59,433 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-17 11:58:59,438 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-02-17 11:58:59,538 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.1.0.201910081157/tools/bin
+2020-02-17 11:58:59,544 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-02-17 11:58:59,567 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-02-17 11:59:00,102 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-17 11:59:00,103 [INFO] MainUpdater:2874 - Updater definition file requires update
+2020-02-17 11:59:00,103 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-02-17 11:59:00,104 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-02-17 11:59:00,305 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-02-17 11:59:00,380 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2020-02-17 11:59:00,380 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-02-17 11:59:00,915 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-02-17 11:59:01,120 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-02-17 11:59:01,205 [INFO] LoadServerUpdatesThread:301 - End of LoadServerUpdate Thread
+2020-02-17 11:59:01,250 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-02-17 11:59:01,317 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-17 11:59:01,318 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-17 11:59:01,569 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/optimusprime/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-02-17 11:59:01,635 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-17 11:59:01,691 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-17 11:59:01,693 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-17 11:59:01,696 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-02-17 11:59:03,428 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-02-17 11:59:05,425 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-17 11:59:05,425 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-17 11:59:05,425 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-17 11:59:05,426 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-17 11:59:06,716 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-02-17 11:59:06,722 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 11:59:06,743 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-17 11:59:09,517 [INFO] ServerAccessManage:348 - Download File mcusDocs.json
+2020-02-17 11:59:09,770 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:18,938 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json
+2020-02-17 11:59:20,191 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:20,576 [INFO] ServerAccessManage:348 - Download File mcusAds.json
+2020-02-17 11:59:20,594 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:23,443 [INFO] ServerAccessManage:348 - Download File boardsDocs.json
+2020-02-17 11:59:23,691 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:24,469 [INFO] ServerAccessManage:348 - Download File boards.json
+2020-02-17 11:59:24,644 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:25,086 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-02-17 11:59:25,379 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-02-17 11:59:25,381 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-02-17 11:59:25,413 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 11:59:25,422 [INFO] DbMcusDocs:126 - JSON generation date=Tue Feb 11 10:02:54 EST 2020 (1581433374)
+2020-02-17 11:59:25,833 [INFO] DbMcusDocs:61 - Found 541 MCUs documents
+2020-02-17 11:59:25,833 [INFO] ApiDb:186 - Save user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-17 11:59:25,834 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-02-17 11:59:25,834 [INFO] DbMcusXml:107 - Load MCU database from /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-02-17 11:59:26,885 [INFO] DbMcusJson:87 - JSON generation date=Tue Feb 11 10:02:54 EST 2020 (1581433374)
+2020-02-17 11:59:28,189 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-02-17 11:59:28,189 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-02-17 11:59:28,189 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-02-17 11:59:28,190 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-02-17 11:59:28,290 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-17 11:59:28,616 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Feb 11 10:02:54 EST 2020 (1581433374)
+2020-02-17 11:59:28,640 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-17 11:59:28,656 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-17 11:59:28,659 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-17 11:59:28,663 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-17 11:59:28,668 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-17 11:59:28,678 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-17 11:59:28,680 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-17 11:59:28,683 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-17 11:59:28,695 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-17 11:59:28,695 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-17 11:59:28,704 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-17 11:59:28,705 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-17 11:59:28,705 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-17 11:59:28,705 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-17 11:59:28,707 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-17 11:59:28,707 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-17 11:59:28,726 [INFO] DbBoardsJson:79 - JSON generation date=Tue Feb 11 08:53:55 EST 2020 (1581429235)
+2020-02-17 11:59:28,737 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-17 11:59:28,746 [INFO] DbBoardsDocs:118 - JSON generation date=Tue Feb 11 10:02:54 EST 2020 (1581433374)
+2020-02-17 11:59:28,764 [INFO] DbBoardsDocs:57 - Found 173 boards documents
+2020-02-17 11:59:28,766 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-17 11:59:28,766 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-17 11:59:28,767 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-17 11:59:28,768 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-17 11:59:28,770 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-17 11:59:28,771 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-17 11:59:28,772 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-17 11:59:28,772 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-17 11:59:28,773 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-17 11:59:28,773 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-17 11:59:28,774 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-17 11:59:28,775 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-17 11:59:29,392 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-17 11:59:29,941 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-17 11:59:29,942 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-17 11:59:30,084 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-17 11:59:30,248 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-17 11:59:30,249 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-17 11:59:30,249 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-17 11:59:30,265 [INFO] DbBoardsDocs:57 - Found 346 boards documents
+2020-02-17 11:59:30,266 [INFO] ApiDb:186 - Save user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-17 11:59:30,266 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-02-17 11:59:30,279 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-02-17 11:59:30,291 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-02-17 11:59:30,294 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-02-17 11:59:30,297 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-02-17 11:59:30,301 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-02-17 11:59:30,318 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-02-17 11:59:30,323 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-02-17 11:59:30,326 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-02-17 11:59:30,330 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-02-17 11:59:30,331 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-02-17 11:59:30,343 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-02-17 11:59:30,343 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-02-17 11:59:30,343 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-02-17 11:59:30,343 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-02-17 11:59:30,346 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-17 11:59:30,346 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-02-17 11:59:30,397 [INFO] DbBoardsJson:79 - JSON generation date=Tue Feb 11 08:53:55 EST 2020 (1581429235)
+2020-02-17 11:59:30,414 [INFO] DbBoards:120 - Found 144 boards (140 are supported by CubeMX)
+2020-02-17 11:59:30,430 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-02-17 11:59:30,430 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-02-17 11:59:30,430 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-02-17 11:59:30,431 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-02-17 11:59:30,431 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-02-17 11:59:30,431 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-02-17 11:59:30,432 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-02-17 11:59:30,432 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-02-17 11:59:30,432 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-02-17 11:59:30,433 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-02-17 11:59:30,434 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-02-17 11:59:30,435 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-02-17 11:59:30,802 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-02-17 11:59:31,185 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-17 11:59:31,185 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-02-17 11:59:31,224 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-02-17 11:59:31,260 [INFO] ApiDb:158 - Load user favorites file /home/optimusprime/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-02-17 11:59:31,261 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-02-17 11:59:31,261 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-02-17 11:59:31,488 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 11:59:31,488 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-17 11:59:31,840 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 11:59:31,841 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-17 11:59:31,898 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-17 11:59:32,029 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-17 12:02:39,343 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-02-17 12:02:39,345 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-02-17 12:02:39,346 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-02-17 12:31:46,435 [INFO] MainUpdater:2230 - connection check result : 10
+2020-02-17 12:31:46,436 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-02-17 12:31:46,491 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-02-17 12:31:46,492 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-02-17 12:31:47,588 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 12:31:47,588 [INFO] McuDetailPanel:181 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-17 12:31:47,909 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-02-17 12:31:48,100 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 12:31:48,101 [INFO] BoardDetailPanel:179 - Set advertising image to /home/optimusprime/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-02-17 12:31:48,118 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-02-17 12:31:48,153 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/optimusprime/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-02-17 12:35:07,773 [INFO] BoardAction:78 - Docs & Resources
+2020-02-17 12:35:16,997 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.st.com
+2020-02-17 12:35:16,997 [ERROR] ServerAccessManage:517 - Unknown host server name. : DB1421.pdf.
+2020-02-17 12:35:20,868 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:35:20,869 [INFO] BoardAction:143 - Datasheet
+2020-02-17 12:35:22,451 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.st.com
+2020-02-17 12:35:22,451 [ERROR] ServerAccessManage:517 - Unknown host server name. : DB1421.pdf.
+2020-02-17 12:35:28,089 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:35:28,090 [INFO] BoardAction:143 - Datasheet
+2020-02-17 12:35:37,238 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.st.com
+2020-02-17 12:35:37,238 [ERROR] ServerAccessManage:517 - Unknown host server name. : UM1472.pdf.
+2020-02-17 12:35:41,501 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:35:50,150 [ERROR] ServerAccessManage:1004 - Warning during Server Connexion :  Unknown host www.st.com
+2020-02-17 12:35:50,151 [ERROR] ServerAccessManage:517 - Unknown host server name. : DB1421.pdf.
+2020-02-17 12:35:56,840 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:38:35,220 [INFO] ServerAccessManage:348 - Download File 
+2020-02-17 12:38:35,304 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 12:38:35,331 [INFO] BoardAction:180 - Large Picture
+2020-02-17 12:38:35,346 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 12:38:35,348 [INFO] BoardAction:180 - Large Picture
+2020-02-17 12:38:35,348 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-02-17 12:38:35,350 [INFO] BoardAction:180 - Large Picture
+2020-02-17 12:38:39,183 [INFO] BoardAction:47 - Features
+2020-02-17 12:38:41,969 [INFO] BoardAction:78 - Docs & Resources
+2020-02-17 12:38:47,501 [INFO] ServerAccessManage:348 - Download File DB1421.pdf
+2020-02-17 12:38:47,568 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:38:47,717 [INFO] BoardAction:143 - Datasheet
+2020-02-17 12:38:56,321 [INFO] ServerAccessManage:348 - Download File UM1472.pdf
+2020-02-17 12:38:56,619 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-02-17 12:39:29,078 [INFO] ServerAccessManage:348 - Download File UM2052.pdf
+2020-02-17 12:39:29,400 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-03-21 11:40:51,616 [INFO] Activator:176 - 
+
+
+2020-03-21 11:40:51,634 [INFO] Activator:177 - !SESSION log4j initialized
